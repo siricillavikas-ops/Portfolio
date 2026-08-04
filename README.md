@@ -1,16 +1,107 @@
-## Hi there 👋
+Hi, I'm Siricilla Vikas Nagesh 
 
-<!--
-**siricillavikas-ops/siricillavikas-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst | Web Developer | IT Professional
 
-Here are some ideas to get you started:
+B.Sc. Information Technology graduate passionate about data analytics, artificial intelligence, and business intelligence, web development. I enjoy building data-driven applications, dashboards, and AI-powered solutions that solve real-world business problems. Currently strengthening my skills in Python, SQL, Power BI, Excel, Git, and GitHub, while seeking opportunities to learn, contribute, and grow in the IT industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+ Skills
+
+Programming: Python, JavaScript, HTML, CSS
+
+Databases: MySQL, Database Management Systems (DBMS)
+
+Data Analytics: Excel, Power BI, Pandas, NumPy
+
+Tools: Git, GitHub, VS Code, Jupyter Notebook
+
+Soft Skills: Analytical Thinking, Problem Solving, Team Collaboration, Communication
+
+---
+
+Projects
+
+Bond Portfolio Analytics & AI Prediction
+
+An end-to-end data analytics and machine learning project for analyzing bond portfolios. Includes data cleaning, exploratory data analysis, feature engineering, predictive modeling, Monte Carlo simulation for risk analysis, and an interactive Power BI dashboard.
+
+Tech Stack: Python • Machine Learning • Power BI • Excel
+
+🔗 Repository: (Add GitHub link)
+
+---
+
+💹 AI Forex Trading System
+
+Developed an AI-powered forex trading system that analyzes historical market data, predicts price movements using machine learning, evaluates model performance, and visualizes insights through interactive dashboards.
+
+Tech Stack: Python • Machine Learning • Power BI • Pandas • Scikit-learn
+
+🔗 Repository: (Add GitHub link)
+
+---
+
+🤖 Bond Risk AI Agent
+
+Built an AI-based bond risk analysis system capable of evaluating bond portfolio performance, estimating financial risk, generating predictions, and assisting decision-making using machine learning models.
+
+Tech Stack: Python • Machine Learning • Financial Analytics
+
+🔗 Repository: (Add GitHub link)
+
+---
+
+📊 Securitisation Risk Assessment Dashboard
+
+Designed an interactive Power BI dashboard to analyze securitisation portfolios, monitor financial risk metrics, visualize KPIs, and support data-driven investment decisions.
+
+Tech Stack: Power BI • Excel • Data Visualization
+
+🔗 Repository: (Add GitHub link)
+
+---
+
+👕 Trivora – Multi-Brand E-Commerce Website
+
+Designed and developed a responsive multi-brand fashion e-commerce website featuring product browsing, category management, and a modern user interface focused on improving user experience.
+
+Tech Stack: HTML • CSS • JavaScript
+
+🔗 Repository: (Add GitHub link)
+
+---
+
+🍔 Food Ordering Website
+
+Developed a food ordering web application with a responsive front end using HTML, CSS, and JavaScript, integrated with Odoo for backend management and order processing.
+
+Tech Stack: HTML • CSS • JavaScript • Odoo
+
+🔗 Repository: (Add GitHub link)
+
+---
+
+📊 Interactive Power BI Dashboard
+
+Built an interactive business intelligence dashboard to monitor KPIs, analyze trends, and provide actionable insights through dynamic reports and visualizations.
+
+Tech Stack: Power BI
+
+🔗 Repository: (Add GitHub link)
+
+---
+
+🎯 Career Objective
+
+Seeking an entry-level opportunity in Data Analytics, Business Intelligence, Software Development, or IT where I can apply my technical knowledge, continue learning, and contribute to impactful real-world projects while growing as an IT professional.
+
+---
+
+📫 Connect With Me
+
+GitHub: https://github.com/siricillavikas-ops
+
+LinkedIn: (Add your LinkedIn URL)
+
+Email: (Add your email address)
