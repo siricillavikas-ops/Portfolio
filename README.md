@@ -22,17 +22,16 @@ Soft Skills: Analytical Thinking, Problem Solving, Team Collaboration, Communica
 
 Projects
 
-Bond Portfolio Analytics & AI Prediction
+Trivora – Multi-Brand E-Commerce Website
 
-An end-to-end data analytics and machine learning project for analyzing bond portfolios. Includes data cleaning, exploratory data analysis, feature engineering, predictive modeling, Monte Carlo simulation for risk analysis, and an interactive Power BI dashboard.
+Designed and developed a responsive multi-brand fashion e-commerce website featuring product browsing, category management, and a modern user interface focused on improving user experience.
 
-Tech Stack: Python • Machine Learning • Power BI • Excel
+Tech Stack: HTML • CSS • JavaScript
 
-🔗 Repository: (Add GitHub link)
+🔗 Repository: (https://github.com/siricillavikas-ops/Trivora-Multi-Brand-Ecommerce-website)
 
----
 
-💹 AI Forex Trading System
+AI Forex Trading System
 
 Developed an AI-powered forex trading system that analyzes historical market data, predicts price movements using machine learning, evaluates model performance, and visualizes insights through interactive dashboards.
 
@@ -42,7 +41,7 @@ Tech Stack: Python • Machine Learning • Power BI • Pandas • Scikit-learn
 
 ---
 
-🤖 Bond Risk AI Agent
+Bond Risk AI Agent
 
 Built an AI-based bond risk analysis system capable of evaluating bond portfolio performance, estimating financial risk, generating predictions, and assisting decision-making using machine learning models.
 
@@ -57,16 +56,6 @@ Tech Stack: Python • Machine Learning • Financial Analytics
 Designed an interactive Power BI dashboard to analyze securitisation portfolios, monitor financial risk metrics, visualize KPIs, and support data-driven investment decisions.
 
 Tech Stack: Power BI • Excel • Data Visualization
-
-🔗 Repository: (Add GitHub link)
-
----
-
-👕 Trivora – Multi-Brand E-Commerce Website
-
-Designed and developed a responsive multi-brand fashion e-commerce website featuring product browsing, category management, and a modern user interface focused on improving user experience.
-
-Tech Stack: HTML • CSS • JavaScript
 
 🔗 Repository: (Add GitHub link)
 
