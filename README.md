@@ -70,7 +70,7 @@ Seeking an entry-level opportunity in Data Analytics, Business Intelligence, Sof
 
 Connect With Me
 
-GitHub: https://github.com/siricillavikas-ops
+GitHub: (https://github.com/siricillavikas-ops)
 
 LinkedIn: (https://www.linkedin.com/in/vikas-siricilla-b5a0a8378)
 
