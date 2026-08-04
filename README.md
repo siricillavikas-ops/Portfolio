@@ -30,6 +30,7 @@ Tech Stack: HTML • CSS • JavaScript
 
 🔗 Repository: (https://github.com/siricillavikas-ops/Trivora-Multi-Brand-Ecommerce-website)
 
+---
 
 AI Forex Trading System
 
@@ -37,7 +38,7 @@ Developed an AI-powered forex trading system that analyzes historical market dat
 
 Tech Stack: Python • Machine Learning • Power BI • Pandas • Scikit-learn
 
-🔗 Repository: (Add GitHub link)
+🔗 Repository: (https://github.com/siricillavikas-ops/AI-Forex-Trading-System)
 
 ---
 
@@ -47,50 +48,31 @@ Built an AI-based bond risk analysis system capable of evaluating bond portfolio
 
 Tech Stack: Python • Machine Learning • Financial Analytics
 
-🔗 Repository: (Add GitHub link)
+🔗 Repository: (https://github.com/siricillavikas-ops/Bond-Risk-AI-Agent)
 
 ---
 
-📊 Securitisation Risk Assessment Dashboard
+Securitisation Risk Assessment Dashboard
 
 Designed an interactive Power BI dashboard to analyze securitisation portfolios, monitor financial risk metrics, visualize KPIs, and support data-driven investment decisions.
 
 Tech Stack: Power BI • Excel • Data Visualization
 
-🔗 Repository: (Add GitHub link)
+🔗 Repository: (https://github.com/siricillavikas-ops/Securitisation-Risk-Assessment-Dashboard)
 
 ---
 
-🍔 Food Ordering Website
-
-Developed a food ordering web application with a responsive front end using HTML, CSS, and JavaScript, integrated with Odoo for backend management and order processing.
-
-Tech Stack: HTML • CSS • JavaScript • Odoo
-
-🔗 Repository: (Add GitHub link)
-
----
-
-📊 Interactive Power BI Dashboard
-
-Built an interactive business intelligence dashboard to monitor KPIs, analyze trends, and provide actionable insights through dynamic reports and visualizations.
-
-Tech Stack: Power BI
-
-🔗 Repository: (Add GitHub link)
-
----
-
-🎯 Career Objective
+Career Objective
 
 Seeking an entry-level opportunity in Data Analytics, Business Intelligence, Software Development, or IT where I can apply my technical knowledge, continue learning, and contribute to impactful real-world projects while growing as an IT professional.
 
 ---
 
-📫 Connect With Me
+Connect With Me
 
 GitHub: https://github.com/siricillavikas-ops
 
-LinkedIn: (Add your LinkedIn URL)
+LinkedIn: (https://www.linkedin.com/in/vikas-siricilla-b5a0a8378)
 
-Email: (Add your email address)
+Email: (siricillavikas@gmail.com)
+
